@@ -4,17 +4,17 @@ help()
 {
 cat <<HELP
 
-	[!] ¡¡ WARNING !! First of All, X server Installation is needed -->
+	[!] ¡¡ WARNING !! First of All, The X server Installation is needed -->
 
 		XMing --> https://sourceforge.net/projects/xming/
 
 		VcXSrv --> https://sourceforge.net/projects/vcxsrv/
 
-	[*] Description: Allow Stablish Connection with X Server
+	[*] Description: It Allows to stablish a connection with a X Server
 
-	[*] Syntax: ${0} [-f|-x]
+	[*] Syntax: $0 [-f|-x]
 
-	[*] Usage: ${0} [-f|-x]
+	[*] Usage: $0 [-f|-x]
 
 	[*] Options:
 
